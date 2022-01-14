@@ -21,3 +21,4 @@ Model to classify and detect ripe and raw tomatoes.
 - Enhance the color filter to detect red tomatoes more accurately.
 - Train the model on more data so that it generalises better.
 ------
+The link to the trained models can be found [here](https://drive.google.com/drive/folders/1bPs3VRbccQDOEulMbJSXyenPapvSAejb?usp=sharing)
